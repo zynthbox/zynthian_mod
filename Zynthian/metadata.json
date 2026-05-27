@@ -1,3 +1,11 @@
 {
+    "KPlugin": {
+        "Id": "io.zynthbox.mod.zynthian",
+        "Name": "Zynthian",
+        "Authors": [{ "Name": "Camilo H." }],
+        "Version": "0.1.0",
+        "License": "GPL-2.0+"
+    },
+    "KPackageStructure": "Zynthbox/Mod",
     "Name": "Zynthian"
 }
